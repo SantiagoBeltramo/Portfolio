@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "js-tokens": "^7.0.0",
+    "react": "^17.0.2",
+    "react-scripts": "^3.4.4"
+  }
+}
